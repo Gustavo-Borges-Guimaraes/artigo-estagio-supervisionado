@@ -1,2 +1,2 @@
-# artigo-estagio-supervisionado
-Artigo referente ao estágio supervisionado obrigatório realizado na matéria do curso de Ciências da Computação, da UFJ.
+# Relatório Final do Estagio Supervisionado
+Este relatório final de estágio supervisionado, foi desenvolvido a partir da observação de uma equipe de desenvolvimento de sistemas na Universidade Federal de Jataí. Ele tem o objetivo de mostrar o que foi proposto de atividade de desenvolvimento durante o estágio, trazendo uma discussão sobre o tema do modelo arquitetural de Microsserviços, em contraste com o outro modelo oposto o Monolítico, assim explorando seus principais pontos e diferenças. De forma a traçar um paralelo com o que foi observado em campo durante o estágio, assim, concluindo com um estudo relativo ao modelo utilizado pela equipe de desenvolvimentos, as motivações por trás disso e partido do referencial teórico uma análise da situação.
